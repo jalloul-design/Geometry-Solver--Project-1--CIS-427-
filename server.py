@@ -52,7 +52,7 @@ while not shut_down:
                 command_response = "301 message format error"
             elif args[0] in users_login and users_login[args[0]] == args[1]:
                 logged_in = True
-                current_user_logged_in = args[0]   # FIX: was args[1] (the password)
+                current_user_logged_in = args[0]  
                 command_response = "SUCCESS"
             else:
                 command_response = "FAILURE: Please provide correct username and password, Please try again."
@@ -165,7 +165,7 @@ while not shut_down:
         else:
             command_response = "300 invalid command"
 
-        # Send the response (LOGOUT and SHUTDOWN already sent above and broke out)
+      
         connect.send((command_response + "\n").encode())
 
     # Closing the client connection to the server
