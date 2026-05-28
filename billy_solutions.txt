@@ -1,0 +1,6 @@
+   radius 2: Circle's circumference is 12.57 and area is 12.57
+   radius 100: Circle's circumference is 628.32 and area is 31415.93
+   sides 29 12: Rectangle's perimeter is 82.00 and area is 348.00
+   sides 3 9: Rectangle's perimeter is 24.00 and area is 27.00
+   sides 8 8: Rectangle's perimeter is 32.00 and area is 64.00
+   radius 7: Circle's circumference is 43.98 and area is 153.94

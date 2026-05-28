@@ -1,0 +1,6 @@
+   radius 3: Circle's circumference is 18.85 and area is 28.27
+   radius 8: Circle's circumference is 50.27 and area is 201.06
+   radius 3: Circle's circumference is 18.85 and area is 28.27
+   sides 2 2: Rectangle's perimeter is 8.00 and area is 4.00
+   sides 7 10: Rectangle's perimeter is 34.00 and area is 70.00
+   sides 5 5: Rectangle's perimeter is 20.00 and area is 25.00
